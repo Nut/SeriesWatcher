@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>153021</id>
+  <Actors>|Andrew Lincoln|Norman Reedus|Steven Yeun|Chandler Riggs|Melissa McBride|David Morrissey|Michael Rooker|Emily Kinney|Scott Wilson|Irone Singleton|Lauren Cohan|Danai Gurira|Emma Bell|Laurie Holden|Jeffrey DeMunn|Jon Bernthal|Sarah Wayne Callies|Chad L. Coleman|Sonequa Martin-Green|</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2010-10-31</FirstAired>
+  <Genre>|Drama|Horror|Suspense|</Genre>
+  <IMDB_ID>tt1520211</IMDB_ID>
+  <Language>de</Language>
+  <Network>AMC</Network>
+  <NetworkID></NetworkID>
+  <Overview>Basierend auf einer Comic-Reihe von Robert Kirkman erzählt &quot;The Walking Dead&quot; die Geschichte einer Gruppe Überlebender nach einer Zombie-Apokalypse. Angeführt wird diese vom Polizisten Rick Grimes und seinem Kollegen Shane. Gemeinsam sind sie auf der Suche nach einem sicheren Zuhause.</Overview>
+  <Rating>8.8</Rating>
+  <RatingCount>422</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>78582</SeriesID>
+  <SeriesName>The Walking Dead</SeriesName>
+  <Status>Continuing</Status>
+  <added>2010-03-30 01:30:16</added>
+  <addedBy>76261</addedBy>
+  <banner>graphical/153021-g13.jpg</banner>
+  <fanart>fanart/original/153021-32.jpg</fanart>
+  <lastupdated>1375310877</lastupdated>
+  <poster>posters/153021-6.jpg</poster>
+  <zap2it_id>SH01324002</zap2it_id>
+</Series>
+<Episode>
+  <id>2993901</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Season 1 Sneak Peak</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-10-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>A preview of the upcoming series.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/153021/2993901.jpg</filename>
+  <lastupdated>1288650215</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>2960601</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Making of The Walking Dead</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-10-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/153021/2960601.jpg</filename>
+  <lastupdated>1288650128</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4185563</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Torn Apart (1) A New Day</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-10-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hannah awakens to find her kids missing after a violent car accident.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>18</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4185563.jpg</filename>
+  <lastupdated>1318281250</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4185564</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Torn Apart (2) Family Matters</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-10-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hannah has an emotional reunion with her kids and seeks refuge in her ex-husband Andrew’s home. While tending to her wounds, Hannah and Andrew try to make sense of the chaotic new world that surrounds them.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4185564.jpg</filename>
+  <lastupdated>1318281292</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4185565</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Torn Apart (3) Domestic Violence</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2011-10-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Judy’s effort to save a stranger leads to a deadly encounter with Andrew.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4185565.jpg</filename>
+  <lastupdated>1318281331</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4185566</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Torn Apart (4) Neighborly Advice</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2011-10-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Andrew goes to his neighbor Palmer’s basement in search of guns and supplies. Once there, the two have a man to man conversation and finally come to an understanding with one another.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4185566.jpg</filename>
+  <lastupdated>1318281367</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4185567</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Torn Apart (5) Step Mother</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2011-10-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hannah and Judy struggle for control of the children.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>15</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4185567.jpg</filename>
+  <lastupdated>1318281405</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4185568</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Torn Apart (6) Everything Dies</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2011-10-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The family makes a desperate attempt to get to safety amid a rapidly growing swarm of walkers.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>17</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4185568.jpg</filename>
+  <lastupdated>1318281436</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349692</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Days Gone By</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2010-10-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Behind the scenes of Episode 1</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>2</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/153021/4349692.jpg</filename>
+  <lastupdated>1346350562</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349693</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Guts</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-11-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Behind the scenes of episode 2</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>3</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/153021/4349693.jpg</filename>
+  <lastupdated>1346350596</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349696</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Tell it to the Frogs</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2010-11-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Behind the scenes of Episode 3</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>4</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/153021/4349696.jpg</filename>
+  <lastupdated>1346350609</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349697</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Vatos</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2010-11-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>5</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/153021/4349697.jpg</filename>
+  <lastupdated>1346350646</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349700</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Wildfire</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2010-11-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>6</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/153021/4349700.jpg</filename>
+  <lastupdated>1346350715</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349701</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: TS-19</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2010-12-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/153021/4349701.jpg</filename>
+  <lastupdated>1346350755</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4352202</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: What Lies Ahead</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2011-10-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Andrew Lincoln and his costars from The Walking Dead talk about developing their characters, a wrenching storyline, and more zombie killing in the thrilling season 2 premiere.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>2</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4352202.jpg</filename>
+  <lastupdated>1346351401</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4352203</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Bloodletting</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2011-10-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>3</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4352203.jpg</filename>
+  <lastupdated>1346351426</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349704</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Save the Last One</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2011-10-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>4</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349704.jpg</filename>
+  <lastupdated>1346351877</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349705</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Cherokee Rose</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2011-11-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>5</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349705.jpg</filename>
+  <lastupdated>1346351908</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349706</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Chupacabra</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2011-11-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>6</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349706.jpg</filename>
+  <lastupdated>1346351922</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349707</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Secrets</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2011-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>7</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349707.jpg</filename>
+  <lastupdated>1346351931</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349708</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Pretty Much Dead Already</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2011-11-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>8</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349708.jpg</filename>
+  <lastupdated>1346351940</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349709</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Nebraska</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2011-02-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>9</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349709.jpg</filename>
+  <lastupdated>1346351955</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349710</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Triggerfinger</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired>2012-02-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>10</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349710.jpg</filename>
+  <lastupdated>1346351965</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349711</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: 18 Miles Out</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired>2012-02-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>11</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349711.jpg</filename>
+  <lastupdated>1346351978</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349712</id>
+  <Combined_episodenumber>25</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Judge, Jury, Executioner.</EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired>2012-03-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>12</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349712.jpg</filename>
+  <lastupdated>1346351989</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349713</id>
+  <Combined_episodenumber>26</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Better Angels</EpisodeName>
+  <EpisodeNumber>26</EpisodeNumber>
+  <FirstAired>2012-03-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>13</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename>episodes/153021/4349713.jpg</filename>
+  <lastupdated>1346352000</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4349714</id>
+  <Combined_episodenumber>27</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Inside The Walking Dead: Beside the Dying Fire</EpisodeName>
+  <EpisodeNumber>27</EpisodeNumber>
+  <FirstAired>2012-03-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/153021/4349714.jpg</filename>
+  <lastupdated>1346352017</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4415646</id>
+  <Combined_episodenumber>28</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Greg Nicotero</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Cold Storage: Hide and Seek</EpisodeName>
+  <EpisodeNumber>28</EpisodeNumber>
+  <FirstAired>2012-10-01</FirstAired>
+  <GuestStars>Josh Stewart|Daniel Roebuck|erina Vincent|Chris Nelson</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Chase seeks refuge from a horde of walkers in an abandoned storage facility. However, he may not be the only survivor left there.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.9</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/153021/4415646.jpg</filename>
+  <lastupdated>1350907179</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4415647</id>
+  <Combined_episodenumber>29</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Greg Nicotero</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Cold Storage: Keys to the Kingdom</EpisodeName>
+  <EpisodeNumber>29</EpisodeNumber>
+  <FirstAired>2012-10-01</FirstAired>
+  <GuestStars>Josh Stewart|Daniel Roebuck|erina Vincent|Chris Nelson</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>B.J. gives Chase a tour of the storage facility. But despite his affable demeanor, B.J. may be hiding a dark secret.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/153021/4415647.jpg</filename>
+  <lastupdated>1350907268</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4415648</id>
+  <Combined_episodenumber>30</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Greg Nicotero</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Cold Storage: The Chosen Ones</EpisodeName>
+  <EpisodeNumber>30</EpisodeNumber>
+  <FirstAired>2012-10-01</FirstAired>
+  <GuestStars>Josh Stewart|Daniel Roebuck|erina Vincent|Chris Nelson</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>In order to keep the electricity flowing, Chase must venture into the darkness to help B.J. reset the generators.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/153021/4415648.jpg</filename>
+  <lastupdated>1350907379</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4415649</id>
+  <Combined_episodenumber>31</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Greg Nicotero</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Cold Storage: Parting Shots</EpisodeName>
+  <EpisodeNumber>31</EpisodeNumber>
+  <FirstAired>2012-10-01</FirstAired>
+  <GuestStars>Josh Stewart|Daniel Roebuck|erina Vincent|Chris Nelson</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Chase discovers B.J.’s dark secret. While attempting to escape, Chase is confronted by B.J. and the two engage in a final standoff.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/153021/4415649.jpg</filename>
+  <lastupdated>1350907813</lastupdated>
+  <seasonid>221451</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>2493011</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Frank Darabont</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gute alte Zeit</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-10-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1589921</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Polizist Rick Grimes erwacht aus dem Koma und erkennt die Welt nicht wieder: Das Krankenhaus, in dem er sich befindet, liegt in Trümmern, das Umland ist verwüstet - und überall lauern blutrünstige Zombies darauf, die Lebenden zu zerfleischen! Rick trifft schließlich auf Duane Jones, der ihn über den Ausbruch der Zombie-Epidemie aufklärt. Für Rick gibt es fortan nur noch ein Ziel: Lange genug zu überleben, um seine Frau Lori und ihren gemeinsamen Sohn Carl wiederzufinden... </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>454</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Frank Darabont</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/153021/2493011.jpg</filename>
+  <lastupdated>1306086133</lastupdated>
+  <seasonid>280441</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>2493181</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gefangene der Toten</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-11-07</FirstAired>
+  <GuestStars>Michael Rooker</GuestStars>
+  <IMDB_ID>tt1628064</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Durch Ricks Unachtsamkeit wird seine Gruppe Überlebender von Zombies eingekesselt. Angesichts der ausweglosen Lage kommt es in der Gruppe bald zu gegenseitigen Schuldzuweisungen und sogar zu Gewaltausbrüchen. Rick muss schließlich erkennen, dass die Zombies sein geringstes Problem sind - denn sein wahrer Feind ist äußerst lebendig... </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>426</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Frank Darabont</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/153021/2493181.jpg</filename>
+  <lastupdated>1306086139</lastupdated>
+  <seasonid>280441</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>2656081</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gwyneth Horder-Payton</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tag der Frösche</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-11-14</FirstAired>
+  <GuestStars>Michael Rooker</GuestStars>
+  <IMDB_ID>tt1628065</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Rick beschließt, nach Atlanta zurückzukehren, um dringend benötigte Waffen zu holen. Unterwegs rettet er einen Mann aus einer lebensbedrohlichen Situation. Aber kann er dem Fremden trauen? Andernorts sehen sich Ricks Frau Lori und sein Cop-Kollege Shane plötzlich einer lange totgeglaubten Person gegenüber...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>406</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Frank Darabont|Charles H. Eglee|Jack LoGiudice|</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/153021/2656081.jpg</filename>
+  <lastupdated>1306086144</lastupdated>
+  <seasonid>280441</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>2656091</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Johan Renck</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Vatos</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-11-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1628066</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Ricks Trip nach Atlanta gleicht mehr und mehr einer Odyssee, denn hinter jeder Hausecke scheinen neue Schwierigkeiten zu lauern. Auch im Camp der Überlebenden gibt es Schwierigkeiten - denn Mechaniker Jim legt ein immer irrationaleres Benehmen an den Tag. Kein Wunder, musste er doch einst mit ansehen, wie seine Familie von Zombies getötet wurde...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>408</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Robert Kirkman</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/153021/2656091.jpg</filename>
+  <lastupdated>1306086149</lastupdated>
+  <seasonid>280441</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>2656101</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ernest Dickerson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tag 194</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-11-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1628067</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Überlebenden schlagen sich unter Ricks Führung zu einer Einrichtung der Gesundheitsbehörde CDC in Atlanta durch. Jim steht unterdessen vor einer unmöglichen Wahl, bei der er buchstäblich über Leben und Tod entscheiden muss...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>394</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Glen Mazzara</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/153021/2656101.jpg</filename>
+  <lastupdated>1306086153</lastupdated>
+  <seasonid>280441</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>2656111</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Guy Ferland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>TS-19</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-12-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1628068</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Endlich am Ziel: Ricks Gruppe wird von einem Arzt ins bestens gesicherte CDC-Gebäude eingelassen. Zunächst hat alles den Anschein, als könnten sich die Überlebenden endlich von den Strapazen der letzten Wochen erholen. Doch bald zeigt sich, dass im CDC nicht alles so ist, wie es scheint...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>380</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Adam Fierro</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/153021/2656111.jpg</filename>
+  <lastupdated>1306086160</lastupdated>
+  <seasonid>280441</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>3818371</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Ernest Dickerson|Gwyneth Horder-Payton|</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Zukunft im Rückspiegel</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-10-16</FirstAired>
+  <GuestStars>|Irone Singleton|Madison Lintz|Melissa Suzanne McBride|</GuestStars>
+  <IMDB_ID>tt1790548</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Rick führt die Gruppe der Überlebenden in Richtung Atlanta - aber bei ihrem Marsch auf dem Highway stoßen sie auf eine neue Gefahr, mit der keiner von ihnen gerechnet hat. Unterwegs müssen sie außerdem nach einer vermissten Person suchen...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>345</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Ardeth Bey|Robert Kirkman|</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/153021/3818371.jpg</filename>
+  <lastupdated>1360619482</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4164014</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ernest Dickerson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Blutsbande</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-10-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804266</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Dass Rick selbstlos einer in Bedrängnis steckenden Person zur Hilfe eilt, zahlt sich aus: Die Gruppe stößt dabei auf einen vermeintlich sicheren Rückzugsort. Shane begibt sich unterdessen auf eine riskante Mission, um dringend benötigte Medikamente zu organisieren...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>320</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Glen Mazzara</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/153021/4164014.jpg</filename>
+  <lastupdated>1360619492</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4164015</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Phil Abraham</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die letzte Kugel</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-10-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804267</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Überlebenden warten voller Bangen auf Shanes Rückkehr. Doch dieser sitzt in einer ehemaligen Schule fest, die von einer Horde Untoter belagert wird - ein Entkommen scheint unmöglich. Daryl und Andrea begeben sich unterdessen auf eine riskante Suchexpedition in den Wald...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>329</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Scott M. Gimple</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/153021/4164015.jpg</filename>
+  <lastupdated>1360619517</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4182088</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Bill Gierhart</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Cherokee Rose</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-11-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804268</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Um dem Rest der Gruppe das Überleben zu ermöglichen, ist Shane zu einem ultimativen Opfer bereit - mit unvorhersehbaren Konsequenzen...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>309</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Evan Reilly</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/153021/4182088.jpg</filename>
+  <lastupdated>1360619532</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4182100</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Guy Ferland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Chupacabra</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2011-11-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804269</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Gruppe ist besorgt, ob sie auf Hershels Farm sicher ist, und fasst deshalb einen Plan. Doch Hershel ist mit dem getroffenen Beschluss alles andere als zufrieden: Er macht seinen Gästen klar, dass sie ruhig noch eine Weile bleiben können - dass aber auch seine Gastfreundschaft irgendwann ein Ende hat...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>300</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>David Leslie Johnson</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/153021/4182100.jpg</filename>
+  <lastupdated>1360619566</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4182099</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Boyd</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Beichten</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2011-11-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804270</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Glenn, der als einziger zwischen beiden Gruppen von Überlebenden vermittelt, trägt ein Geheimnis mit sich herum und wird von Gewissensbissen geplagt. Daryl befindet sich im Delirium und versucht mit allen Mitteln, zur Farm zurückzukehren...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>305</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Angela Kang</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/153021/4182099.jpg</filename>
+  <lastupdated>1360619574</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4182098</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tot oder Lebendig</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2011-11-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804271</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hershel weigert sich, der harten Realität der Zombie-Übermacht ins Gesicht zu sehen. Andrea vertraut sich endlich jemandem an, und die Gruppe trifft eine folgenschwere Entscheidung...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>317</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/153021/4182098.jpg</filename>
+  <lastupdated>1360619581</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4201966</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Nebraska</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2012-02-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804272</IMDB_ID>
+  <Language>de</Language>
+  <Overview>    Hershel verlangt von Rick, dass er und die anderen Überlebenden seine Farm sofort verlassen. Unterdessen kommt es zwischen Shane und Rick zur Eskalation...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>311</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/153021/4201966.jpg</filename>
+  <lastupdated>1368189510</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4201967</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Am Abzug</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2012-02-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804273</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Lori wird nach ihrem Autounfall von Zombies attackiert, kann sich ihrer aber entledigen. In der Bar hat Rick gerade Dave und Tony erschossen, als dessen Freunde auftauchen. Es kommt zu einer Schießerei, bei der bald auch eine Horde Zombies mitmischt - höchste Zeit für Rick, Hershel und Glenn, aus dieser brenzligen Situation zu verschwinden! Shane macht sich derweil auf die Suche nach Lori und bringt sie unter zu Zuhilfenahme einer Notlüge zurück. Lori überlegt, was die Gruppe mit Shane machen soll, der immer unberechenbarer wird...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>288</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/153021/4201967.jpg</filename>
+  <lastupdated>1368189517</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4201968</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ausgesetzt</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2012-02-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804262</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Rick und Shane bringen Randall achtzehn Meilen weit weg, um ihn auszusetzen. Shane will Randall erschießen, womit Rick allerdings nicht einverstanden ist. Es kommt zu einer Schlägerei zwischen den beiden, was allerdings auch einige hungrige Zombies anlockt. Rick, der Shane mittlerweile überwältigt hat, steht vor einer schwerwiegenden Entscheidung: Soll er Shane den Zombies überlassen und so dieses Problem ein für alle Mal erledigen?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>302</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/153021/4201968.jpg</filename>
+  <lastupdated>1368189527</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4201969</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sorry, Bruder!</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2012-03-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804263</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Daryl foltert den gefangenen Randall, um mehr über dessen ehemalige Gruppe zu erfahren. Wie sich herausstellt, hatte diese zwei Teenager vergewaltigt und den deren Vater gezwungen, dabei zuzusehen. Die Überlebenden beschließen daraufhin, Randall zu töten – sehr zu Dales Entsetzen. Unterdessen erkundet Carl die Wälder und stößt dabei auf einen Zombie, der im Schlamm feststeckt. Carls Versuche, das Monster zu töten, schlagen jedoch spektakulär fehl und führen sogar dazu, dass der Untote freikommt …</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>267</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/153021/4201969.jpg</filename>
+  <lastupdated>1368189535</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4201970</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die besseren Engel unserer Natur</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2012-03-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804264</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Angesichts des tragischen Tods von Dale versucht Rick, den Gemeinschaftsgeist der Gruppe zu beschwören, was angesichts der Zerfallserscheinungen wenig aussichtsreich scheint. Dennoch müssen sich die Überlebenden zusammenraufen und sich auf den bald hereinbrechenden Winter vorbereiten. Gleichzeitig müssen sei immer noch darüber entscheiden, was mit dem gefangenen Randall geschehen soll. Rick beschließt, Dales Wunsch zu respektieren und sein Leben zu verschonen …</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>282</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/153021/4201970.jpg</filename>
+  <lastupdated>1368189546</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4201971</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Mahd</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2012-03-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1804265</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die blutigen Auseinandersetzungen auf der Farm bleiben nicht ohne Folgen für die Überlebenden: Der Lärm hat eine große Zombiehorde angelockt. Kämpfen ist angesichts der Übermacht keine Option, und so fliehen sie Hals über Kopf in die Nacht. Andrea, die versehentlich zurückgelassen wurde, scheint verloren – doch sie wird von einem vermummten, schwertbewehrten Rächer gerettet …</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>264</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/153021/4201971.jpg</filename>
+  <lastupdated>1368189554</lastupdated>
+  <seasonid>434761</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4328902</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Ernest R. Dickerson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Saat</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-10-14</FirstAired>
+  <GuestStars>Melissa McBride|IronE Singleton|Emily Kinney|Lew Temple|Scott Wilson|Theodus Crane|Nick Gomez|Markice Moore|Vincent M. Ward</GuestStars>
+  <IMDB_ID>tt2107527</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Gruppe um Sheriff Rick Grimes steht vor einem Umbruch: Nachdem er seinen einstmals besten Freund und späteren erbittertsten Konkurrenten Shane ermordet hat, ist Rick zwar wieder der unumstrittene Anführer der Überlebenden. Doch wie soll er ihr Vertrauen zurückgewinnen, das er mit diesem Gewaltakt verspielt hat?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>246</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Glen Mazzara</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/153021/4328902.jpg</filename>
+  <lastupdated>1362177626</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4378929</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Billy Gierhart</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Rosskur</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-10-21</FirstAired>
+  <GuestStars>Emily Kinney|Melissa McBride|IronE Singleton|Lew Temple|Scott Wilson|Theodus Crane|Nick Gomez|Markice Moore|Vincent M. Ward</GuestStars>
+  <IMDB_ID>tt2253598</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Das Leben von Herschel hängt nach dem Biss eines Walkers und der improvisierten Beinamputation am seidenen Faden. Die Situation wird noch etwas komplizierter, als sich herausstellt, dass das Gefängnis nicht der sichere Zufluchtsort ist, den sich alle erhofft hatten. Eine andere Gruppe von Überlebenden hat sich nämlich auch schon dort eingenistet.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>235</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Nichole Beattie</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/153021/4378929.jpg</filename>
+  <lastupdated>1362177650</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4378930</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Guy Ferland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Zeit der Ernte</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-10-28</FirstAired>
+  <GuestStars>Melissa McBride|Dallas Roberts|Jose Pablo Cantillo|Julio Cesar Cedillo|Donzaleigh Abernathy|Scott Wilson|Michael Rooker|David Morrissey|</GuestStars>
+  <IMDB_ID>tt2253600</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Andrea und Michonne treffen auf ihrer einsamen Reise auf eine größere Gruppe Überlebender. In der Gruppe, zu der Andrea ursprünglich gehörte, steht eine wichtige Entscheidung zur Disposition.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>227</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Evan Reilly</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/153021/4378930.jpg</filename>
+  <lastupdated>1362177673</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4378931</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Guy Ferland</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Leben und Tod</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-11-04</FirstAired>
+  <GuestStars>IronE Singleton|Melissa McBride|Emily Kinney|Lew Temple|Scott Wilson|Michael Rooker|David Morrissey|</GuestStars>
+  <IMDB_ID>tt2253602</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Gruppe wird in alle Himmelsrichtungen versprengt, was eine Bedrohung für die Leben aller Gruppenmitglieder bedeutet. Merl hat unterdessen ein Anliegen an den Gouverneur.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>237</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Sang Kyu Kim</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/153021/4378931.jpg</filename>
+  <lastupdated>1362177695</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4378932</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Gregory Nicotero</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Anruf</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-11-11</FirstAired>
+  <GuestStars>|Lauren Cohan|Michael Rooker|David Morrissey|Melissa McBride|Emily Kinney|Scott Wilson|</GuestStars>
+  <IMDB_ID>tt2253610</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nachdem ein weiteres Mitglied der Gruppe in die ewigen Zombie-Abgründe geschickt wurde, macht sich Rick schwere Vorwürfe und kämpft darum, seine Fassung zu bewahren. Unterdessen hegt Michonne schweres Misstrauen gegen den Gouverneur.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>223</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Angela Kang</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/153021/4378932.jpg</filename>
+  <lastupdated>1362177719</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4378933</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Daniel Attias</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Auf der Jagd</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-11-18</FirstAired>
+  <GuestStars>Melissa McBride|Emily Kinney|Alexa Nikolas|Scott Wilson|Emma Bell|Andrew Rothenberg|Jeryl Prescott|Arthur Bridgers|Dave Davis|Lawrence Kao|Vincent M. Ward</GuestStars>
+  <IMDB_ID>tt2253604</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Während sich Andrea und der Governor näherkommen, sieht sich Michonne gezwungen, eine Entscheidung in Sachen Woodbury zu treffen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>221</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Scott M. Gimple</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/153021/4378933.jpg</filename>
+  <lastupdated>1362177741</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4378934</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Dan Sackheim</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Tod vor der Tür</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2012-11-25</FirstAired>
+  <GuestStars>Melissa McBride|Emily Kinney|Lew Temple|Dallas Roberts|Scott Wilson|Jose Pablo Cantillo</GuestStars>
+  <IMDB_ID>tt2253606</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der Governor lässt kein Mittel unbenutzt, um Informationen aus Glenn und Maggie herauszupressen. Merle will notfalls auch mittels Folter den Aufenthaltsort seines Bruders Daryl herausfinden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>227</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Frank Renzulli</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/153021/4378934.jpg</filename>
+  <lastupdated>1369656333</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4378935</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Bill Gierhart</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Siehe, dein Bruder</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2012-12-02</FirstAired>
+  <GuestStars>Jon Bernthal|Chad Coleman|Jose Pablo Cantillo</GuestStars>
+  <IMDB_ID>tt2253608</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Während Rick und der Rest seines Teams alles dafür tun, Glenn und Maggie aus den Fängen des Gouverneurs zu befreien, treffen im Gefängnis neue Überlebende ein, die von einem Mann namens Tyreese angeführt werden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>226</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Robert Kirkman</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/153021/4378935.jpg</filename>
+  <lastupdated>1362177790</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444268</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Lesli Linka Glatter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kriegsrecht</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2013-02-10</FirstAired>
+  <GuestStars>Melissa McBride|Emily Kinney|Lew Temple|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Jose Pablo Cantillo|Alexa Nikolas|Melissa Ponzio|Scott Wilson</GuestStars>
+  <IMDB_ID>tt2269550</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nach dem Überfall von Ricks Gruppe auf Woodbury befindet sich Daryl in der Gewalt des Governors. Und Rick muss über das weitere Schicksal der neuen Gruppe befinden. Außerdem müssen sich die Überlebenden auf einen harten Kampf vorbereiten – denn der Governor weiß, wo sie sich aufhalten und ist fest entschlossen, das Gefängnis anzugreifen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>193</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Evan Reilly</Writer>
+  <absolute_number>28</absolute_number>
+  <filename>episodes/153021/4444268.jpg</filename>
+  <lastupdated>1362177828</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444269</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Seith Mann</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Zuflucht</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2013-02-17</FirstAired>
+  <GuestStars>Lew Temple|Dallas Roberts|Jose Pablo Cantillo|Melissa Ponzio|Scott Wilson</GuestStars>
+  <IMDB_ID>tt2401094</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Gruppe diskutiert darüber, welche Schritte als nächste zu tun sind und wie sie sich für den bevorstehenden Angriff des Governors wappnen können. Währenddessen macht sich Rick auf die Suche nach einem verlorenen Freund. Und die beiden Brüder Merle und Daryl beginnen, ihre bisherigen Entscheidungen zu hinterfragen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>191</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Nichole Beattie</Writer>
+  <absolute_number>29</absolute_number>
+  <filename>episodes/153021/4444269.jpg</filename>
+  <lastupdated>1362177849</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444270</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gregory Nicotero</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Judas</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2013-02-24</FirstAired>
+  <GuestStars>Melissa McBride|Emily Kinney|Dallas Roberts|Chad L. Coleman|Sonequa Martin-Green|Jose Pablo Cantillo|Melissa Ponzio|Scott Wilson</GuestStars>
+  <IMDB_ID>tt2521154</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die The Walking Dead-Episode I Ain't a Judas schlägt deutlich leisere Töne an als die vorige Folge. Wichtige Aussprachen werden geführt und neue Vorgehensweisen besprochen. Und ein lange überfälliges Treffen findet statt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>209</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Angela Kang</Writer>
+  <absolute_number>30</absolute_number>
+  <filename>episodes/153021/4444270.jpg</filename>
+  <lastupdated>1362180778</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444271</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gesichter der Toten</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2013-03-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2521158</IMDB_ID>
+  <Language>de</Language>
+  <Overview>    Gemeinsam mit Carl und Michonne macht sich Rick auf den Weg in seine alte Heimatstadt, um dort Waffen aufzutreiben. Dort werden sie aber bald von einem zunächst Fremden bedroht.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>226</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>31</absolute_number>
+  <filename>episodes/153021/4444271.jpg</filename>
+  <lastupdated>1368694232</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444272</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Das Ultimatum</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2013-03-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2521162</IMDB_ID>
+  <Language>de</Language>
+  <Overview>    Um weiteres Blutvergießen zu vermeiden, sitzen sich Rick und der Governor zum ersten Mal von Angesicht zu Angesicht gegenüber und suchen nach einer Lösung.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>196</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>32</absolute_number>
+  <filename>episodes/153021/4444272.jpg</filename>
+  <lastupdated>1368694151</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444273</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Fang</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2013-03-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2521168</IMDB_ID>
+  <Language>de</Language>
+  <Overview>    Philip richtet sich eine Folterkammer ein, während sein Berater Milton Andrea davon zu überzeugen versucht, dass sie ihre Freunde warnen muss. Daraufhin begibt sie sich auf den langen Fußweg zum Gefängnis. Derweil keimt in Woodbury erster Widerstand auf.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>187</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>33</absolute_number>
+  <filename>episodes/153021/4444273.jpg</filename>
+  <lastupdated>1368694247</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444274</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gregory Nicotero</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Strick des Jägers</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2013-03-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2521172</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Rick und ein Teil der Gruppe stehen vor der Frage, ob sie dem Gouverneur Michonne ausliefern sollen, nur um weiteres Blutvergießen zu vermeiden. Merle nimmt ihnen die Entscheidung letztendlich ab.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>195</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Scott M. Gimple</Writer>
+  <absolute_number>34</absolute_number>
+  <filename>episodes/153021/4444274.jpg</filename>
+  <lastupdated>1366205029</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4444275</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Ernest R. Dickerson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Stirb und töte</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2013-03-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2521182</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der Gouverneur macht sich mit seinen Leuten auf den Weg zum Gefängnis, um sich dort an Rick und den anderen zu rächen, während Andrea verzweifelt um ihr Leben kämpft.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>187</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Glen Mazzara</Writer>
+  <absolute_number>35</absolute_number>
+  <filename>episodes/153021/4444275.jpg</filename>
+  <lastupdated>1368694266</lastupdated>
+  <seasonid>490893</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4582747</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>30 Days Without an Accident</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-10-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/153021/4582747.jpg</filename>
+  <lastupdated>1374167505</lastupdated>
+  <seasonid>521570</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added>2013-07-18 10:11:45</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+  <tms_export>1374789754</tms_export>
+</Episode>
+<Episode>
+  <id>4582748</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2013-10-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1374166782</lastupdated>
+  <seasonid>521570</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+  <tms_export></tms_export>
+</Episode>
+<Episode>
+  <id>4582749</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2013-10-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1374166793</lastupdated>
+  <seasonid>521570</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+  <tms_export></tms_export>
+</Episode>
+<Episode>
+  <id>4582750</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Indifference</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-11-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1374453663</lastupdated>
+  <seasonid>521570</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+  <tms_export></tms_export>
+</Episode>
+<Episode>
+  <id>4592339</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>TBA</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-11-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1374453676</lastupdated>
+  <seasonid>521570</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+  <tms_export></tms_export>
+</Episode>
+<Episode>
+  <id>4592340</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Rise</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2013-11-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1374453688</lastupdated>
+  <seasonid>521570</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+  <tms_export></tms_export>
+</Episode>
+<Episode>
+  <id>4606532</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Dead Weight</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2013-11-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1374453699</lastupdated>
+  <seasonid>521570</seasonid>
+  <seriesid>153021</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+  <tms_export></tms_export>
+</Episode>
+</Data>
