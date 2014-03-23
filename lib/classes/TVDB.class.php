@@ -2,6 +2,7 @@
 class TVDB {
 	
 	private $DirFilter = array('.', '..', '.DS_Store', '.xml');
+	private $AllSeriesChk, $CurrentSelect;
 	
 	/*Suchfunktion*/
 	
@@ -11,6 +12,7 @@ class TVDB {
 		foreach($xml->Series as $Series) {
 			echo '	<tr>
 						<td>' . htmlentities($Series->SeriesName) . '</td>
+						<td>'.htmlentities($Series->seriesid).'</td>
 						<td><input type="radio" name="chkSeries" value="'.htmlentities($Series->seriesid).'"></td>
 					</tr>';
 		}
@@ -61,7 +63,7 @@ class TVDB {
 	/*Generiert den JSON-String für MySQL-Datenbank*/
 	
 	public function MakeJSON() {
-		$xml = simplexml_load_file(DIR_SERIES.'de2.xml');
+		$xml = simplexml_load_file(DIR_SERIES.'81189.xml');
 		foreach($xml->Episode as $Episode) {
 			if($Episode->SeasonNumber > 0) {
 				$String .= '"S'.$Episode->SeasonNumber.'E'.$Episode->EpisodeNumber.'": false, ';
@@ -71,16 +73,44 @@ class TVDB {
 		return '{"Series": {"Name": "'.$xml->Series->SeriesName.'", "Data": {'.$StringCut.'}}}';
 	}
 	
-	/*Listet die Episoden, welche man gesehen hat*/
+	/*Zeigt die Serien, welche man gecheckt hat*/
+	
+	public function ShowSeries() {
+		$MySQLi = new mysqli(MYSQL_HOST, MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_DATABASE);
+		$Result = $MySQLi->query("SELECT series_id FROM test WHERE UserID = 1");
+		
+		while($Row = $Result->fetch_array(MYSQL_ASSOC)) {
+			$Rows[] = $Row['series_id'];
+		}
+
+		$this->AllSeriesChk = $Rows;
+		for($i = 0; $i < count($Rows); $i++) {
+			echo '<a href="?page=watched&series='.urlencode($Rows[$i]).'">'.$Rows[$i]."</a> ";
+		}
+		$this->CreatePage();
+	}
+	
+	public function CreatePage() {
+		$this->CurrentSelect = $_GET['series'];
+		for($i = 0; $i < count($this->AllSeriesChk); $i++) {
+			if($this->CurrentSelect == $this->AllSeriesChk[$i]) {
+				echo '<br>bla '.$this->CurrentSelect;
+				$this->ListAll();
+			}
+		}
+	}
+	
+	/*Listet die Episoden einer Serie, welche man gesehen hat*/
 	
 	public function ListAll() {
 		$MySQLi = new mysqli(MYSQL_HOST, MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_DATABASE);
-		$Result = $MySQLi->query("SELECT * FROM test");
+		$Result = $MySQLi->query("SELECT `series` FROM `test` WHERE series_id = ".$this->CurrentSelect."");
 		$Row = $Result->fetch_row();
 		
-		$DecodeXML = json_decode($Row[1], true);
-		
-		for ($i = 0; $i < sizeof($DecodeXML["Series"]["Data"]); $i++) {
+		$DecodeXML = json_decode($Row[0], true);
+		echo '<form action="?page=watched&series='.$this->CurrentSelect.'" method="post">
+				<table width="300px" border="1">';
+		for($i = 0; $i < count($DecodeXML["Series"]["Data"]); $i++) {
 			$check = (current($DecodeXML["Series"]["Data"]) == true) ? ' checked' : '';
 			echo '	<tr>
 						<td>' . key($DecodeXML["Series"]["Data"]) . '</td> 
@@ -88,27 +118,32 @@ class TVDB {
 					</tr>';
 			next($DecodeXML["Series"]["Data"]);
 		}
+		echo '</table>
+				<input type="submit" value="Speichern" name="save">
+			</form>';
+		if($_POST['save']) {
+			$this->SaveList();
+		}
 	}
 	
 	public function SaveList() {
 		$MySQLi = new mysqli(MYSQL_HOST, MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_DATABASE);
-		$Result = $MySQLi->query("SELECT * FROM test");
+		$Result = $MySQLi->query("SELECT `series` FROM `test` WHERE series_id = ".$this->CurrentSelect."");
 		$Row = $Result->fetch_row();
-		$DecodeArray = json_decode($Row[1], true);
+		$DecodeArray = json_decode($Row[0], true);
+		$Replacement = $_POST['check']; //sucht die die gecheckt wurden
 		
-		$Replacement = $_POST['check'];
+		//Setzt alles auf false
+		foreach($DecodeArray["Series"]["Data"] as $Key => $Value) { 
+		  $DecodeArray["Series"]["Data"][$Key] = false; 
+		} 
 		
+		//Setzt die gechecktet auf true
 		foreach($Replacement as $New) {
-			if(isset($Replacement)) {
-				$DecodeArray["Series"]["Data"][$New] = true;
-			} else {
-				$DecodeArray["Series"]["Data"] = false;	
-			}
+			$DecodeArray["Series"]["Data"][$New] = true;
 		}
-		echo '<pre>';
-		var_dump($DecodeArray);
-		echo '</pre>';
-		//$MySQLi->query("UPDATE test SET series = '".json_encode($DecodeArray)."' WHERE ID = '1'");
+		
+		$MySQLi->query("UPDATE test SET series = '".json_encode($DecodeArray)."' WHERE series_id = '".$this->CurrentSelect."'");
 	}
 }
 ?>
