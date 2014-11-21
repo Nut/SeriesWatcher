@@ -1,5 +1,12 @@
 <?php 
-	function  __autoload($class_name) {
-		include DIR_CLASS . $class_name . '.class.php';
-	}
+function Autoloader($class) {
+
+	$pathClass = DIR_CLASS . $class . '.class.php';
+	$pathPages = DIR_PAGES_CLASS . $class . '.class.php';
+
+	if(is_file($pathClass) && !class_exists($class)) require_once $pathClass;
+	if(is_file($pathPages) && !class_exists($class)) require_once $pathPages;
+}
+
+spl_autoload_register('Autoloader');
 ?>
